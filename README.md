@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parth Bhalerao
-- 👀 I’m interested in ... Data-Structures and Algorithms and Software Developement.
-- 🌱 I’m currently working on Java and Python development in Data Structures and Algorithms and Object Oriented System Design.
+- 👀 I’m interested in ... Data-Structures & Algorithms, Competitive Programming, Software Development and Project Management.
+- 🌱 I’m currently working several projects related to system design and development.
 - 💞️ I’m looking to collaborate on ... open source projects and learn new things.
 - 📫 How to reach me ... My Email-ID is : pvbcod@gmail.com
 
