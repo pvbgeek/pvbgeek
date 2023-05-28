@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I am Parth Bhalerao.\
-🎓 &nbsp;I'm graduate student in major-Electronics and Communciation Engineering & minor-Computer Science and Engineering at Shri Ramdeobaba College of Engineering and Management, Nagpur (2019-2023).\
+🎓 &nbsp;I'm graduate student in major-Electronics and Communciation Engineering & minor-Computer Science and Engineering at Shri Ramdeobaba College of Engineering and Management, Nagpur (2019-2023).
 
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence,Machine Learning, and Computer Vision.\
