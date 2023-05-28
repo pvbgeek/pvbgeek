@@ -28,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-K12)](https://github.com/pvbgeek/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pvbgeek)](https://github.com/pvbgeek/github-readme-stats)
 ### 📫 &nbsp; How to reach me:
 
 
