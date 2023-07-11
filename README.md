@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm graduate student in major-Electronics and Communciation Engineering & minor-Computer Science and Engineering at Shri Ramdeobaba College of Engineering and Management, Nagpur (2019-2023).
 
 
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence,Machine Learning, and Computer Vision.\
+🌱 &nbsp;I'm on track to learn more about DSA, Artificial Intelligence, Machine Learning, and Computer Vision.\
 ✍️ &nbsp;In my free time I , play badminton, read books and solve brainteasers.\
 ✉️ &nbsp;You can email me at pvbcod@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume]().
